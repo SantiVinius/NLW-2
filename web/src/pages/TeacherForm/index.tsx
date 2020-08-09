@@ -126,7 +126,7 @@ function TeacherForm() {
                             onChange={(e) => { setSubject(e.target.value) }}
                             options={[
                                 { value: 'Artes', label: 'Artes' },
-                                { value: 'Matamática', label: 'Matemática' },
+                                { value: 'Matemática', label: 'Matemática' },
                                 { value: 'Filosofia', label: 'Filosofia' },
                                 { value: 'Sociologia', label: 'Sociologia' },
                                 { value: 'Biologia', label: 'Cálculo' },

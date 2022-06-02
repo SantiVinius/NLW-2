@@ -6,7 +6,7 @@
 ![List](https://github.com/SantiVinius/NLW-2/blob/master/public/list.png)
 ![Mobile](https://github.com/SantiVinius/NLW-2/blob/master/public/mobile.png)
 
-## Algumas tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 - TypeScript
 - React

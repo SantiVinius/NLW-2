@@ -17,4 +17,5 @@
 - CORS
 - Expo
 
-O projeto foi desenvolvido durante o evento Next Level Week, promovido pela Rocketseat
+
+#### O projeto foi desenvolvido durante o evento Next Level Week, promovido pela Rocketseat
